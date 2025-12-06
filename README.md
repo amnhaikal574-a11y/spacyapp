@@ -44,41 +44,6 @@ This module empowers airline staff to maximize cargo space efficiency using adva
 
 ---
 
-## 🔧 Installation & Setup
-
-Follow these steps to set up the project locally.
-
-### Prerequisites
-* Node.js / JavaScript (depending on your stack)
-* Git
-
-### Steps
-
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    # Example for Node projects
-    npm install
-    ```
-
-3.  **Environment Variables**
-    Create a `.env` file in the root directory and add your keys:
-    ```
-    API_KEY=your_api_key
-    DATABASE_URL=your_db_url
-    ```
-
-4.  **Run the Application**
-    ```bash
-    npm start
-    ```
-
----
 
 ## 🤝 Contributing
 
