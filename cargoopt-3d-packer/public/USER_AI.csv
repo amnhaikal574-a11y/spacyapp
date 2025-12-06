@@ -1,0 +1,11 @@
+booking_id,flight_number,flight_date,origin,destination,passenger_name,user_email,seat_number,ticket_class,ticket_price,booking_date,Luggage_volume (m³)
+BK2400001,AB201,2024-12-01,KUL,BKK,Patricia Smith,patricia.smith@yahoo.com,12F,Business,325,2024-11-15,0.061
+BK2400002,AB201,2024-12-01,KUL,BKK,Patricia Williams,patricia.williams@hotmail.com,1E,Economy,164,2024-11-20,0.12
+BK2400003,AB201,2024-12-01,KUL,BKK,Elizabeth Martin,elizabeth.martin@hotmail.com,13A,Business,319,2024-10-19,0.128
+BK2400004,AB201,2024-12-01,KUL,BKK,David Hernandez,david.hernandez@gmail.com,29A,Economy,142,2024-11-30,0.123
+BK2400005,AB201,2024-12-01,KUL,BKK,Susan Martinez,susan.martinez@yahoo.com,6F,Business,389,2024-10-21,0.093
+BK2400006,AB201,2024-12-01,KUL,BKK,Susan Wilson,susan.wilson@hotmail.com,1D,Business,319,2024-11-07,0.061
+BK2400007,AB201,2024-12-01,KUL,BKK,Thomas Williams,thomas.williams@yahoo.com,30F,Business,313,2024-11-26,0.115
+BK2400008,AB201,2024-12-01,KUL,BKK,Robert Martin,robert.martin@outlook.com,3C,Economy,119,2024-11-13,0.072
+BK2400009,AB201,2024-12-01,KUL,BKK,Linda Anderson,linda.anderson@gmail.com,29E,Business,389,2024-11-20,0.061
+BK2400010,AB201,2024-12-01,KUL,BKK,Robert Jones,robert.jones@yahoo.com,13D,Business,336,2024-10-19,0.061
